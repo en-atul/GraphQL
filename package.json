@@ -13,7 +13,7 @@
 		"apollo-server": "^2.14.3",
 		"cors": "^2.8.5",
 		"file-type": "^14.6.2",
-		"got": "^11.3.0",
+		"got": "^11.8.5",
 		"graphql": "^15.1.0",
 		"graphql-tag": "^2.10.3",
 		"image-size": "^0.8.3",
